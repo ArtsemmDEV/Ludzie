@@ -25,7 +25,9 @@ node index.js
 
 ## Authors
 
+- [@PlevenDEV](https://www.github.com/PlevenDEV)
 - [@mmoreaudev](https://www.github.com/mmoreaudev)
+
 ## Support
 
 For support, email contact@mateomoreau.com or send me a message on instagram.
