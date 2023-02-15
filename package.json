@@ -1,0 +1,26 @@
+{
+  "name": "ludzie",
+  "version": "3.5.0",
+  "description": "A discord mod bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matéo Moreau (pleven-dev.fr)",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "axios": "^0.27.2",
+    "discord.js": "^14.1.1",
+    "dotenv": "^16.0.1",
+    "leeks.js": "^0.2.4",
+    "leekslazylogger": "^4.1.7",
+    "moment": "^2.29.4",
+    "weather-js": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://pleven-dev.fr"
+  }
+}

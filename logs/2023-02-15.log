@@ -1,0 +1,29 @@
+
+	❯ A leekslazylogger project
+	❯ Powered by leekslazylogger v4.1.7
+	❯ Log level "info"
+	❯ Node.js v18.12.1 on win32
+	❯ Wednesday, 15 February 2023 at 13:36 PM (Europe/Paris) -->
+
+[15/02/23 13:36:38] [SUCCESS] Connecté à l'API de Discord !
+[15/02/23 13:36:38] [INFO] Commande chargé: help
+[15/02/23 13:36:38] [INFO] Commande chargé: ip
+[15/02/23 13:36:38] [INFO] Commande chargé: partenariat
+[15/02/23 13:36:38] [INFO] Commande chargé: ping
+[15/02/23 13:36:38] [INFO] Commande chargé: say-embed
+[15/02/23 13:36:38] [INFO] Commande chargé: serverinfo
+[15/02/23 13:36:38] [INFO] Commande chargé: userinfo
+[15/02/23 13:36:38] [INFO] Commande chargé: weather
+[15/02/23 13:36:38] [INFO] Commande chargé: ban
+[15/02/23 13:36:38] [INFO] Commande chargé: kick
+[15/02/23 13:36:38] [INFO] Commande chargé: purge
+[15/02/23 13:36:38] [INFO] Commande chargé: slowmode
+[15/02/23 13:36:38] [INFO] Commande chargé: unban
+[15/02/23 13:36:38] [INFO] Événement chargé: interactionCreate
+[15/02/23 13:36:38] [INFO] Événement chargé: ready
+[15/02/23 13:37:03] [SUCCESS] Ludzie est prêt à être utilisé !
+[15/02/23 13:37:03] [INFO] Ludzie#3363 a demarré dans 2 serveurs
+[15/02/23 13:37:03] [INFO] [ 'Toreya - Développement', 'Client bot' ]
+[15/02/23 13:37:03] [INFO] [ '967072556773437490', '1006310556069802006' ]
+[15/02/23 13:37:03] [INFO] Démarrage de l'actualisation des commandes d'application (/).
+[15/02/23 13:37:08] [SUCCESS] Commandes d'application (/) rechargées avec succès.
