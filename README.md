@@ -25,7 +25,7 @@ node index.js
 
 ## Authors
 
-- [@PlevenDEV](https://www.github.com/PlevenDEV)
+- [@Artsemm](https://www.github.com/ArtsemmDEV)
 - [@mmoreaudev](https://www.github.com/mmoreaudev)
 
 ## Support
